@@ -4,7 +4,7 @@ public class Principal {
     public static void main(String[] args) {
 
         // CONVERSÃO DE TIPO PRIMITIVO para PRIMITIVO:
-        int idade = 20;
+        int idade = 35;
         short idadeShort = (short) idade;
 
         // CONVERSÃO WRAPPER PARA PRIMITIVO - short:
